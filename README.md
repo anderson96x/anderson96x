@@ -19,7 +19,7 @@
   <br>
   <br>
   
-  <img width="450" src="https://github-readme-stats.vercel.app/api?username=anderson96x&show_icons=true&theme=tokyonight&include_all_commits=true&line_height=24&hide_border=true"/>
-  <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson96x&layout=compact&theme=tokyonight&hide_border=true&card_width=250"/>
+  <img width="350" src="https://github-readme-stats.vercel.app/api?username=anderson96x&show_icons=true&theme=tokyonight&include_all_commits=true&line_height=24&hide_border=true"/>
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson96x&layout=compact&theme=tokyonight&hide_border=true&card_width=250"/>
 
 </div>
