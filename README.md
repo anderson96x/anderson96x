@@ -5,10 +5,12 @@
   <a alt="GMail" href = "mailto:anderson96x@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
   <br>👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas
+  <br>⚡ Fun fact: não consigo abrir produtos enlatados 🤷‍♀️
+  <br>🤵 Coordenador de TI
   <br>🗣 Idiomas
   <img align="center" alt="PT-BR" height="20" width="20" src="https://flagicons.lipis.dev/flags/4x3/br.svg">
   <img align="center" alt="EN-US" height="20" width="20" src="https://flagicons.lipis.dev/flags/4x3/us.svg">
-  <br>⚡ Fun fact: em 2017 fiz um programinha em Visual Basic mesmo sem saber programar, usando apenas pedaços de códigos encontrados pela web e moldando conforme o objetivo 😁
+  
   
   <br>
   
