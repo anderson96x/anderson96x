@@ -23,7 +23,7 @@
   <br>
   <br>
   
-  <img width="350" src="https://github-readme-stats.vercel.app/api?username=anderson96x&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=anderson96x&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true"/>
   <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson96x&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
